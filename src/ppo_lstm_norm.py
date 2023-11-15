@@ -1,4 +1,4 @@
-from hrro_env_norm import HRROenv
+from env_norm import HRROenv
 from ray.rllib.algorithms.ppo import PPOConfig
 from auxiliary_classes import (
     Membrane,

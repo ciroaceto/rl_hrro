@@ -2,7 +2,7 @@ import gymnasium as gym
 from gymnasium.spaces import Box, Discrete, Dict
 import numpy as np
 import random
-from simulator_batchro_step import Step_HRRO
+from simulator import Step_HRRO
 # from ray.rllib.env.env_context import EnvContext
 
 

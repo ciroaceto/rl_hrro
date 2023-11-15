@@ -1,4 +1,4 @@
-from hrro_env import HRROenv
+from env import HRROenv
 from ray.rllib.algorithms.ppo import PPOConfig
 # from ray.tune.registry import register_env
 from auxiliary_classes import (
